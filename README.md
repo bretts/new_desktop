@@ -1,7 +1,7 @@
 # New Desktop
 
 ## Purpose
-Tihs program allows you to quickly create a new desktop with some default apps in OSX from the command line
+This program allows you to quickly create a new desktop with some default apps in OSX from the command line
 
 ## Usage
 Create a alias in your ~/.bash_profile
